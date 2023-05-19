@@ -1,0 +1,5 @@
+ls
+pwd
+ls -la
+exit
+echo "I am working"
